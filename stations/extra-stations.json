@@ -1,12 +1,12 @@
 {
-  "version": 4,
-  "updated": "2026-11-18",
+  "version": 5,
+  "updated": "2026-11-20",
   "note": "Stations listeners asked for that the public station directory doesn't have ('stations'), frequencies for directory stations whose names have none ('fixes', so they show on the dial), and the most popular stations ('popular', first = strongest: they win their frequency, lead searches, fill new users' presets). Bump 'version' on every change. Check before pushing: python tools/check_streams.py",
-  "Boktot Most Popular": [
+  "popular": [
     "Love Radio Manila",
     "Barangay LS 97.1 Manila",
     "Yes The Best 101.1 Manila",
-    "96.3 Easy Rock - BOKTOT",
+    "96.3 Easy Rock - DWRK",
     "Energy FM Manila",
     "Brigada News FM Mega Manila",
     "Monster RX 93.1",
